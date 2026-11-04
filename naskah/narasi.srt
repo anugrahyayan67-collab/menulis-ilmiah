@@ -1,0 +1,503 @@
+1
+00:00:01,600 --> 00:00:07,906
+Coba lihat dua paragraf ini. Topiknya sama, yaitu indikator asam basa.
+
+2
+00:00:07,906 --> 00:00:14,400
+Paragraf pertama padat dan penuh istilah. Rasanya kaku, seperti ditulis mesin.
+
+3
+00:00:14,400 --> 00:00:22,692
+Paragraf kedua mengalir. Setiap kalimat menyambung ke kalimat berikutnya, dan setiap klaim jelas sumbernya.
+
+4
+00:00:22,692 --> 00:00:26,877
+Dua-duanya bisa ditulis oleh mahasiswa yang sama.
+
+5
+00:00:26,877 --> 00:00:33,460
+Bedanya ada pada cara menyusun, cara membaca sumber, dan cara merangkai kalimat.
+
+6
+00:00:33,460 --> 00:00:40,709
+Kabar baiknya, semua itu bisa dipelajari langkah demi langkah, mulai dari halaman kosong.
+
+7
+00:00:49,700 --> 00:00:52,753
+Perjalanan kita punya lima bagian.
+
+8
+00:00:52,753 --> 00:01:00,488
+Pertama, menyiapkan tulisan: mengenal jenis karya ilmiah, lalu mengubah topik menjadi pertanyaan.
+
+9
+00:01:00,488 --> 00:01:05,628
+Kedua, berburu sumber dan membaca jurnal dengan cepat tanpa tenggelam.
+
+10
+00:01:05,628 --> 00:01:10,978
+Ketiga, menyusun kerangka, paragraf, dan kalimat yang enak dibaca.
+
+11
+00:01:10,978 --> 00:01:15,741
+Keempat, mengutip sumber dan menulis daftar pustaka dengan benar.
+
+12
+00:01:15,741 --> 00:01:22,224
+Kelima, merakit semuanya menjadi laporan atau artikel, lalu merevisinya.
+
+13
+00:01:22,224 --> 00:01:30,159
+Sepanjang video, kita menulis satu contoh nyata: ekstrak kubis ungu sebagai indikator asam basa.
+
+14
+00:01:32,767 --> 00:01:40,948
+Tulisan ilmiah menyajikan fakta dan hasil pemikiran secara runtut, objektif, dan dapat dipertanggungjawabkan.
+
+15
+00:01:40,948 --> 00:01:43,901
+Ada tiga pegangan yang perlu diingat.
+
+16
+00:01:43,901 --> 00:01:54,746
+Pertama, objektif. Kalimat seperti menurut saya warnanya cantik diganti dengan data, misalnya warna larutan berubah dari ungu menjadi hijau.
+
+17
+00:01:54,746 --> 00:02:02,850
+Kedua, logis dan runtut. Setiap bagian menyambung ke bagian berikutnya, dari masalah sampai simpulan.
+
+18
+00:02:02,850 --> 00:02:10,287
+Ketiga, bersumber. Setiap klaim yang bukan hasil pengamatanmu sendiri harus menunjuk ke sumbernya.
+
+19
+00:02:10,287 --> 00:02:17,536
+Bahasanya baku dan tetap sederhana. Tulisan ilmiah yang baik mudah dipahami pembacanya.
+
+20
+00:02:20,133 --> 00:02:27,837
+Sebelum menulis, kenali dulu jenis karya yang diminta, karena setiap jenis punya kerangka sendiri.
+
+21
+00:02:27,837 --> 00:02:37,982
+Laporan praktikum menceritakan percobaan: tujuan, dasar teori, alat dan bahan, cara kerja, hasil, pembahasan, dan simpulan.
+
+22
+00:02:37,982 --> 00:02:45,319
+Makalah membahas satu topik dari berbagai sumber, dengan pendahuluan, pembahasan, dan penutup.
+
+23
+00:02:45,319 --> 00:02:53,543
+Artikel jurnal melaporkan penelitian dengan pola IMRaD: pendahuluan, metode, hasil, dan pembahasan.
+
+24
+00:02:53,543 --> 00:03:00,670
+Karya tulis untuk lomba biasanya mirip artikel, ditambah gagasan atau solusi yang ditawarkan.
+
+25
+00:03:00,670 --> 00:03:08,793
+Jadi langkah pertama selalu sama: baca aturan dari dosen atau panitia, lalu ikuti formatnya.
+
+26
+00:03:11,400 --> 00:03:16,251
+Topik yang terlalu luas membuat tulisan melebar ke mana-mana.
+
+27
+00:03:16,251 --> 00:03:23,955
+Indikator asam basa masih sangat luas. Kita persempit menjadi indikator alami dari kubis ungu.
+
+28
+00:03:23,955 --> 00:03:32,056
+Lalu ubah menjadi pertanyaan: bagaimana perubahan warna ekstrak kubis ungu pada larutan asam dan basa?
+
+29
+00:03:32,056 --> 00:03:39,382
+Pertanyaan ini menjadi kompas. Setiap paragraf yang kamu tulis nanti harus membantu menjawabnya.
+
+30
+00:03:39,382 --> 00:03:48,149
+Dari pertanyaan, tujuan bisa langsung dirumuskan: mengetahui perubahan warna ekstrak kubis ungu pada berbagai pH.
+
+31
+00:03:48,149 --> 00:03:56,542
+Tujuan yang baik memakai kata kerja yang bisa diukur, seperti mengetahui, menentukan, atau membandingkan.
+
+32
+00:03:59,133 --> 00:04:05,039
+Sekarang saatnya mencari sumber. Tempat yang paling mudah adalah Google Scholar.
+
+33
+00:04:05,039 --> 00:04:14,430
+Untuk jurnal Indonesia ada Garuda dan SINTA, sedangkan DOAJ mengumpulkan jurnal akses terbuka dari banyak negara.
+
+34
+00:04:14,430 --> 00:04:22,322
+Pakai kata kunci yang spesifik, misalnya antosianin kubis ungu indikator, lalu batasi tahun terbitnya.
+
+35
+00:04:22,322 --> 00:04:29,094
+Banyak dosen meminta jurnal dan buku, jadi prosiding, skripsi, dan blog sebaiknya disaring dulu.
+
+36
+00:04:29,094 --> 00:04:36,643
+Jurnal yang jelas punya nama jurnal, volume, nomor, halaman, ISSN, dan biasanya DOI.
+
+37
+00:04:36,643 --> 00:04:45,113
+DOI adalah alamat tetap sebuah artikel. Dengan DOI, siapa pun bisa menemukan artikel yang sama.
+
+38
+00:04:45,113 --> 00:04:52,162
+Simpan setiap PDF dengan nama penulis dan tahun, supaya mudah dicari saat menulis.
+
+39
+00:04:54,767 --> 00:05:03,603
+Satu artikel jurnal bisa lebih dari sepuluh halaman. Kamu tidak perlu membacanya dari awal sampai akhir sekaligus.
+
+40
+00:05:03,603 --> 00:05:05,801
+Pakai cara tiga putaran.
+
+41
+00:05:05,801 --> 00:05:13,458
+Putaran pertama hanya lima sampai sepuluh menit: baca judul, abstrak, judul bagian, dan simpulan.
+
+42
+00:05:13,458 --> 00:05:19,641
+Di sini kamu memutuskan, apakah artikel ini membantu menjawab pertanyaanku?
+
+43
+00:05:19,641 --> 00:05:27,476
+Kalau ya, masuk putaran kedua: baca bagian yang relevan dengan teliti, termasuk tabel dan gambarnya.
+
+44
+00:05:27,476 --> 00:05:34,980
+Putaran ketiga hanya untuk artikel inti, saat kamu perlu memahami metodenya secara mendalam.
+
+45
+00:05:34,980 --> 00:05:41,663
+Selama membaca, tandai kalimat yang bisa kamu pakai, lalu catat nomor halamannya.
+
+46
+00:05:44,267 --> 00:05:50,970
+Kesalahan yang sering terjadi: membaca banyak, mencatat sedikit, lalu lupa sumbernya.
+
+47
+00:05:50,970 --> 00:05:59,651
+Biasakan membuat kartu catatan. Satu kartu berisi satu gagasan, lengkap dengan penulis, tahun, dan halaman.
+
+48
+00:05:59,651 --> 00:06:05,645
+Tulis kutipan aslinya, lalu di bawahnya tulis ulang dengan kalimatmu sendiri.
+
+49
+00:06:05,645 --> 00:06:11,393
+Kumpulkan kartu dalam tabel sederhana: sumber di baris, subtopik di kolom.
+
+50
+00:06:11,393 --> 00:06:17,754
+Dari tabel ini kelihatan subtopik mana yang sudah kuat dan mana yang masih kurang sumber.
+
+51
+00:06:17,754 --> 00:06:23,482
+Kalau ada klaim yang belum ketemu sumbernya, tandai dulu dan jangan dikarang.
+
+52
+00:06:26,067 --> 00:06:33,016
+Sebelum menulis paragraf, susun kerangka, yaitu daftar subbab dan poin utama yang akan dibahas.
+
+53
+00:06:33,016 --> 00:06:42,194
+Untuk dasar teori kubis ungu, kerangkanya bisa seperti ini: asam dan basa, pH, indikator, lalu antosianin.
+
+54
+00:06:42,194 --> 00:06:49,321
+Urutkan dari yang umum ke yang khusus, supaya pembaca dibawa pelan-pelan menuju topik utama.
+
+55
+00:06:49,321 --> 00:06:53,806
+Di bawah setiap subbab, tempelkan kartu catatan yang cocok.
+
+56
+00:06:53,806 --> 00:07:00,855
+Dengan cara ini, setiap paragraf sudah punya bahan dan sumber sebelum kamu mulai menulis.
+
+57
+00:07:03,467 --> 00:07:06,897
+Paragraf yang baik membahas satu gagasan pokok.
+
+58
+00:07:06,897 --> 00:07:13,646
+Gagasan itu ditulis dalam kalimat utama, lalu didukung beberapa kalimat penjelas.
+
+59
+00:07:13,646 --> 00:07:22,493
+Kalau kalimat utama ada di awal, polanya disebut deduktif. Pola ini paling sering dipakai di tulisan ilmiah.
+
+60
+00:07:22,493 --> 00:07:28,676
+Kalau kalimat utama ada di akhir sebagai simpulan, polanya disebut induktif.
+
+61
+00:07:28,676 --> 00:07:34,670
+Kalau ada di awal lalu ditegaskan lagi di akhir, polanya disebut campuran.
+
+62
+00:07:34,670 --> 00:07:41,065
+Kalimat penjelas bisa berisi definisi, contoh, data, atau sebab dan akibat.
+
+63
+00:07:41,065 --> 00:07:49,269
+Satu paragraf biasanya tiga sampai tujuh kalimat. Begitu masuk gagasan baru, buat paragraf baru.
+
+64
+00:07:51,867 --> 00:07:56,806
+Paragraf terasa mengalir kalau kalimat-kalimatnya saling menyambung.
+
+65
+00:07:56,806 --> 00:08:05,876
+Ada tiga alat penyambung. Pertama, kata penghubung, seperti selain itu, oleh karena itu, dan dengan demikian.
+
+66
+00:08:05,876 --> 00:08:14,735
+Kedua, mengulang kata kunci. Kalimat berikutnya menyebut lagi antosianin, atau menyebutnya senyawa tersebut.
+
+67
+00:08:14,735 --> 00:08:20,694
+Ketiga, urutan yang logis: definisi dulu, lalu ciri, lalu contoh.
+
+68
+00:08:20,694 --> 00:08:27,266
+Pilih kata penghubung yang umum dipakai mahasiswa. Kata yang terlalu tinggi tidak perlu.
+
+69
+00:08:27,266 --> 00:08:37,545
+Penghubung juga tidak perlu ada di setiap kalimat. Kalau semua kalimat diawali penghubung, tulisan malah terasa dibuat-buat.
+
+70
+00:08:40,133 --> 00:08:45,739
+Kalimat efektif menyampaikan maksud penulis dengan tepat dan mudah dipahami.
+
+71
+00:08:45,739 --> 00:08:53,820
+Cek dulu subjek dan predikatnya. Kalimat dalam hasil pengamatan menunjukkan perubahan warna tidak punya subjek.
+
+72
+00:08:53,820 --> 00:08:58,682
+Buang kata dalam, sehingga hasil pengamatan menjadi subjeknya.
+
+73
+00:08:58,682 --> 00:09:04,499
+Hemat kata. Para mahasiswa-mahasiswa cukup ditulis para mahasiswa.
+
+74
+00:09:04,499 --> 00:09:13,878
+Jaga kesejajaran. Kalau daftar memakai kata kerja, semua unsurnya kata kerja: menimbang, melarutkan, dan menyaring.
+
+75
+00:09:13,878 --> 00:09:23,014
+Jangan terlalu dipadatkan. Satu kalimat yang memuat tiga gagasan lebih baik dipecah menjadi dua atau tiga kalimat.
+
+76
+00:09:25,600 --> 00:09:34,991
+Pegangan ejaan bahasa Indonesia saat ini adalah EYD edisi kelima, yang terbit tahun dua ribu dua puluh dua.
+
+77
+00:09:34,991 --> 00:09:43,660
+Kata depan di ditulis terpisah, seperti di laboratorium. Awalan di ditulis serangkai, seperti dipanaskan.
+
+78
+00:09:43,660 --> 00:09:52,708
+Istilah asing yang belum diserap dicetak miring, misalnya buffer. Nama latin juga miring, seperti Brassica oleracea.
+
+79
+00:09:52,708 --> 00:09:56,138
+Angka di awal kalimat ditulis dengan huruf.
+
+80
+00:09:56,138 --> 00:10:02,721
+Hindari dimana sebagai kata penghubung. Gunakan yang atau tempat, sesuai maksudnya.
+
+81
+00:10:02,721 --> 00:10:11,845
+Cara kerja di laporan praktikum biasanya ditulis dalam kalimat pasif, seperti larutan dipanaskan selama lima menit.
+
+82
+00:10:14,433 --> 00:10:21,760
+Sekarang soal gaya. Banyak tulisan terasa kaku karena memakai pola yang sama berulang-ulang.
+
+83
+00:10:21,760 --> 00:10:31,350
+Contohnya pola perbandingan seperti bukan ini melainkan itu, atau tidak hanya ini tetapi juga itu, hampir di setiap paragraf.
+
+84
+00:10:31,350 --> 00:10:38,488
+Ada juga frasa yang terlalu sering dipakai, seperti penting untuk dicatat, atau dengan kata lain.
+
+85
+00:10:38,488 --> 00:10:42,904
+Cara memperbaikinya sederhana: tulis langsung intinya.
+
+86
+00:10:42,904 --> 00:10:51,351
+Ikuti istilah dan gaya bahasa jurnal Indonesia yang kamu kutip, karena itulah bahasa yang umum di bidangmu.
+
+87
+00:10:51,351 --> 00:10:59,733
+Lalu baca tulisanmu dengan suara keras. Kalimat yang membuatmu tersandung biasanya perlu ditulis ulang.
+
+88
+00:11:02,333 --> 00:11:07,216
+Ada dua cara memakai sumber: kutipan langsung dan parafrase.
+
+89
+00:11:07,216 --> 00:11:15,508
+Kutipan langsung menyalin kalimat persis, diberi tanda petik, dan menyebut halamannya. Pakai seperlunya saja.
+
+90
+00:11:15,508 --> 00:11:22,068
+Parafrase menulis ulang gagasan sumber dengan kalimatmu sendiri, tetap dengan sitasi.
+
+91
+00:11:22,068 --> 00:11:30,104
+Caranya: baca sampai paham, tutup sumbernya, tulis dengan kalimatmu, lalu cocokkan lagi dengan aslinya.
+
+92
+00:11:30,104 --> 00:11:36,864
+Pastikan maknanya tetap sama. Parafrase tidak boleh menambah klaim yang tidak ada di sumber.
+
+93
+00:11:36,864 --> 00:11:44,279
+Mengganti beberapa kata dari kalimat asli tanpa menyebut sumbernya tetap termasuk plagiarisme.
+
+94
+00:11:46,867 --> 00:11:51,806
+Gaya sitasi yang banyak dipakai adalah APA edisi ketujuh.
+
+95
+00:11:51,806 --> 00:12:00,087
+Di dalam teks, tulis nama belakang penulis dan tahun terbitnya, misalnya Ayun et al., dua ribu dua puluh dua.
+
+96
+00:12:00,087 --> 00:12:08,546
+Penulis satu atau dua orang ditulis semua namanya. Tiga orang atau lebih cukup nama pertama lalu et al.
+
+97
+00:12:08,546 --> 00:12:13,497
+Di daftar pustaka, sumber diurutkan menurut abjad nama penulis.
+
+98
+00:12:13,497 --> 00:12:22,887
+Untuk jurnal: penulis, tahun, judul artikel, nama jurnal dan volume yang dicetak miring, nomor, halaman, lalu DOI.
+
+99
+00:12:22,887 --> 00:12:29,801
+Untuk buku: penulis, tahun, judul buku yang dicetak miring, edisi, lalu penerbit.
+
+100
+00:12:29,801 --> 00:12:35,341
+Setiap sitasi di teks harus ada di daftar pustaka, dan sebaliknya.
+
+101
+00:12:37,933 --> 00:12:42,696
+Sekarang semua bahan dirakit, mulai dari laporan praktikum.
+
+102
+00:12:42,696 --> 00:12:52,297
+Tujuan ditulis singkat sesuai panduan. Dasar teori berisi konsep yang dibutuhkan untuk menjelaskan hasil, lengkap dengan sitasi.
+
+103
+00:12:52,297 --> 00:12:57,826
+Alat, bahan, dan cara kerja ditulis sesuai yang benar-benar dilakukan.
+
+104
+00:12:57,826 --> 00:13:03,154
+Hasil pengamatan berisi data apa adanya, biasanya dalam tabel.
+
+105
+00:13:03,154 --> 00:13:12,567
+Pembahasan adalah bagian terpenting. Di sini kamu menjelaskan mengapa hasilnya begitu, lalu membandingkannya dengan teori.
+
+106
+00:13:12,567 --> 00:13:18,562
+Kalau hasil berbeda dari teori, jelaskan kemungkinan penyebabnya dengan jujur.
+
+107
+00:13:18,562 --> 00:13:24,290
+Simpulan menjawab tujuan satu per satu, tanpa menambah bahasan baru.
+
+108
+00:13:26,900 --> 00:13:29,953
+Artikel jurnal mengikuti pola IMRaD.
+
+109
+00:13:29,953 --> 00:13:38,977
+Pendahuluan berangkat dari masalah, menunjukkan apa yang sudah diteliti, lalu menyebut celah dan tujuan penelitian.
+
+110
+00:13:38,977 --> 00:13:44,772
+Metode ditulis cukup rinci supaya orang lain bisa mengulang penelitianmu.
+
+111
+00:13:44,772 --> 00:13:52,464
+Hasil menyajikan data, sedangkan pembahasan menafsirkan data itu dan mengaitkannya dengan penelitian lain.
+
+112
+00:13:52,464 --> 00:13:56,949
+Abstrak ditulis paling akhir, walaupun letaknya paling depan.
+
+113
+00:13:56,949 --> 00:14:05,064
+Isinya latar belakang, tujuan, metode, hasil utama, dan simpulan, biasanya dalam satu paragraf.
+
+114
+00:14:05,064 --> 00:14:10,592
+Panjang abstrak dan formatnya mengikuti aturan penulis di jurnal tujuan.
+
+115
+00:14:13,200 --> 00:14:18,451
+Tulisan pertama adalah draf. Tulisan yang baik lahir saat revisi.
+
+116
+00:14:18,451 --> 00:14:23,313
+Diamkan drafmu sebentar, lalu baca lagi dengan mata pembaca.
+
+117
+00:14:23,313 --> 00:14:31,726
+Periksa dari yang besar ke yang kecil: isi dan urutan dulu, lalu paragraf, lalu kalimat, terakhir ejaan.
+
+118
+00:14:31,726 --> 00:14:35,822
+Cocokkan setiap klaim dengan sumber dan nomor halamannya.
+
+119
+00:14:35,822 --> 00:14:43,702
+Terakhir, periksa format: ukuran kertas, margin, huruf, spasi, dan penomoran, sesuai panduan.
+
+120
+00:14:43,702 --> 00:14:51,717
+Kalau bisa, minta teman membaca. Bagian yang membuatnya bingung adalah bagian yang perlu diperjelas.
+
+121
+00:14:54,133 --> 00:14:56,809
+Mari kita rangkum perjalanannya.
+
+122
+00:14:56,809 --> 00:15:01,382
+Kenali jenis karya, lalu ubah topik menjadi pertanyaan.
+
+123
+00:15:01,382 --> 00:15:07,477
+Cari sumber yang jelas, baca dengan tiga putaran, dan catat lengkap dengan halamannya.
+
+124
+00:15:07,477 --> 00:15:13,948
+Susun kerangka, bangun paragraf dengan satu gagasan pokok, dan tulis kalimat yang efektif.
+
+125
+00:15:13,948 --> 00:15:19,665
+Kutip dengan jujur, lalu rakit dan revisi sampai tulisanmu enak dibaca.
+
+126
+00:15:19,665 --> 00:15:25,416
+Halaman kosong tadi sekarang sudah punya jalan. Selamat menulis.
