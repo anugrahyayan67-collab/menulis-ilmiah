@@ -90,9 +90,9 @@ export const Artikel: React.FC = () => {
       <div
         style={{
           position: 'absolute',
-          left: CX - 200,
+          left: CX - 250,
           top: absY,
-          width: 400,
+          width: 500,
           height: 48,
           borderRadius: 12,
           background: C.mint,
@@ -110,7 +110,7 @@ export const Artikel: React.FC = () => {
         }}
       >
         <span>Abstrak</span>
-        <span style={{fontFamily: FONT.mono, fontSize: 18, fontWeight: 600}}>ditulis terakhir · diletakkan di depan</span>
+        <span style={{fontFamily: FONT.mono, fontSize: 16, fontWeight: 600, whiteSpace: 'nowrap'}}>ditulis terakhir · letak di depan</span>
       </div>
       <Box p={b1} title="I · pendahuluan" col={C.blue}>
         {['Masalah', 'Yang sudah diteliti', 'Celah penelitian', 'Tujuan penelitian'].map((x, i) => {
