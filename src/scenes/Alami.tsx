@@ -106,7 +106,7 @@ export const Alami: React.FC = () => {
           </svg>
           <div style={{fontFamily: FONT.serif, fontSize: 30, lineHeight: 1.6, color: C.ink}}>
             Larutan yang telah diencerkan yang kemudian{' '}
-            <span style={{textDecoration: bump > 0.01 ? `underline wavy rgba(224,57,62,${bump.toFixed(3)})` : undefined, textUnderlineOffset: 8, textDecorationThickness: 3}}>yang mana yang</span> dipanaskan …
+            <span style={{textDecoration: `underline wavy rgba(224,57,62,${bump.toFixed(3)})`, textUnderlineOffset: 8, textDecorationThickness: 3}}>yang mana yang</span> dipanaskan …
           </div>
         </div>
         <div style={{marginTop: 22, fontFamily: FONT.sans, fontSize: 28, color: C.red, fontWeight: 700, opacity: bump}}>tersandung? → tulis ulang kalimatnya</div>

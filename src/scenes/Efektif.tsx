@@ -1,4 +1,5 @@
 import React from 'react';
+import {interpolateColors} from 'remotion';
 import {BACK, ramp, slot} from '../anim';
 import {Check, Kicker, Paper, TypeText, segs} from '../components/paper';
 import {useScene} from '../SceneContext';
@@ -64,9 +65,9 @@ export const Efektif: React.FC = () => {
                 fontFamily: FONT.sans,
                 fontWeight: 700,
                 fontSize: 24,
-                border: `2px solid ${on > 0.01 ? C.blue : C.faint}`,
-                background: cur > 0.01 ? `rgba(47,98,240,${(0.14 * cur).toFixed(3)})` : '#fff',
-                color: on > 0.01 ? C.blue : C.muted,
+                border: `2px solid ${interpolateColors(on, [0, 1], [C.faint, C.blue])}`,
+                background: interpolateColors(cur, [0, 1], ['#ffffff', '#dce5fd']),
+                color: interpolateColors(on, [0, 1], [C.muted, C.blue]),
                 opacity: 0.4 + 0.6 * on,
               }}
             >

@@ -1,4 +1,5 @@
 import React from 'react';
+import {interpolateColors} from 'remotion';
 import {BACK, ramp, slot} from '../anim';
 import {Kicker, Paper, TypeText, segs} from '../components/paper';
 import {useScene} from '../SceneContext';
@@ -102,8 +103,8 @@ export const Padu: React.FC = () => {
                 marginTop: 12,
                 padding: '12px 20px',
                 borderRadius: 14,
-                background: pick > 0 ? `rgba(19,154,99,${(0.1 * pick).toFixed(3)})` : '#fff',
-                border: `2px solid ${pick > 0.01 ? C.mint : C.faint}`,
+                background: interpolateColors(pick, [0, 1], ['#ffffff', '#e7f5ee']),
+                border: `2px solid ${interpolateColors(pick, [0, 1], [C.faint, C.mint])}`,
                 opacity: a * (1 - 0.45 * tooHigh),
                 display: 'flex',
                 gap: 18,
@@ -111,7 +112,7 @@ export const Padu: React.FC = () => {
                 transform: `scale(${(1 + 0.03 * pick).toFixed(3)})`,
               }}
             >
-              <span style={{fontFamily: FONT.mono, fontWeight: 600, fontSize: 26, color: pick > 0.01 ? C.mint : C.muted, width: 40}}>L{l.lv}</span>
+              <span style={{fontFamily: FONT.mono, fontWeight: 600, fontSize: 26, color: interpolateColors(pick, [0, 1], [C.muted, C.mint]), width: 40}}>L{l.lv}</span>
               <div>
                 <div style={{fontFamily: FONT.sans, fontWeight: 700, fontSize: 24, color: C.ink}}>
                   {l.name}

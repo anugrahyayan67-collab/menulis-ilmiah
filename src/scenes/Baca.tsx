@@ -1,4 +1,5 @@
 import React from 'react';
+import {interpolateColors} from 'remotion';
 import {BACK, ramp} from '../anim';
 import {Label, Stage} from '../components/primitives';
 import {Magnifier, clamp01} from '../components/paper';
@@ -35,7 +36,7 @@ const PassCard: React.FC<{y: number; h: number; n: string; title: string; sub: s
       boxSizing: 'border-box',
       borderRadius: 16,
       background: '#fff',
-      border: `2px ${on > 0.01 ? 'solid' : 'dashed'} ${on > 0.01 ? col : C.faint}`,
+      border: `2px solid ${interpolateColors(on, [0, 1], [C.faint, col])}`,
       boxShadow: `0 ${8 + 12 * on}px ${22 + 14 * on}px rgba(22,33,62,${(0.05 + 0.08 * on).toFixed(3)})`,
       opacity: ghost * (0.5 + 0.5 * Math.max(on, done)),
       transform: `translateX(${(-14 * on).toFixed(2)}px)`,

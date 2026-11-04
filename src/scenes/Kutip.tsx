@@ -1,4 +1,5 @@
 import React from 'react';
+import {interpolateColors} from 'remotion';
 import {BACK, ramp, slot} from '../anim';
 import {Kicker, Paper, TypeText, segs} from '../components/paper';
 import {useScene} from '../SceneContext';
@@ -68,7 +69,7 @@ export const Kutip: React.FC = () => {
                   height: 230,
                   borderRadius: 18,
                   background: '#fff',
-                  border: `2px solid ${on > 0.01 ? C.blue : C.faint}`,
+                  border: `2px solid ${interpolateColors(Math.min(1, on), [0, 1], [C.faint, C.blue])}`,
                   boxShadow: `0 ${8 + 10 * on}px ${22 + 12 * on}px rgba(22,33,62,${(0.06 + 0.06 * on).toFixed(3)})`,
                   display: 'flex',
                   flexDirection: 'column',
