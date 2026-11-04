@@ -1,4 +1,4 @@
-# Naskah Voice-Over — *Elektron Tanpa Alamat* (Kimia Kuantum: Teori Orbital Molekul)
+# Naskah Voice-Over — *Dari Kepala ke Kertas* (Menulis Karya Ilmiah dari Nol)
 
 Durasi total **15:42** (942.8 dtk) · 1545 kata · tempo baca ±5.3 suku kata/detik (±120 kata/menit saat berbicara).
 

@@ -22,7 +22,7 @@ const precise = (sec: number) => `${formatTime(sec)}.${String(Math.floor((sec % 
 // ---------- Naskah voice-over (teleprompter) ----------
 const md: string[] = [];
 const words = TIMELINE.scenes.reduce((n, s) => n + s.tLines.reduce((m, l) => m + l.words.length, 0), 0);
-md.push('# Naskah Voice-Over — *Elektron Tanpa Alamat* (Kimia Kuantum: Teori Orbital Molekul)');
+md.push('# Naskah Voice-Over — *Dari Kepala ke Kertas* (Menulis Karya Ilmiah dari Nol)');
 md.push('');
 md.push(`Durasi total **${formatTime(TIMELINE.total)}** (${TIMELINE.total.toFixed(1)} dtk) · ${words} kata · tempo baca ±${SYLLABLES_PER_SECOND} suku kata/detik (±${Math.round((words / TIMELINE.scenes.reduce((n, s) => n + s.tLines.reduce((m, l) => m + (l.end - l.start), 0), 0)) * 60)} kata/menit saat berbicara).`);
 md.push('');
@@ -75,7 +75,7 @@ writeFileSync(
 
 // ---------- Daftar bab untuk deskripsi YouTube / LMS ----------
 const PART_NAMES: Record<number, string> = {1: 'Prinsip & teori dasar', 2: 'Implementasi dalam kimia', 3: 'Penerapan di industri'};
-const chapters: string[] = ['Elektron Tanpa Alamat — Teori Orbital Molekul (Kimia Kuantum pertemuan 10) · SCIENTIAN', ''];
+const chapters: string[] = ['Dari Kepala ke Kertas — Menulis Karya Ilmiah dari Nol · SCIENTIAN', ''];
 let lastPart = 0;
 for (const s of TIMELINE.scenes) {
   if (s.id === 'title' || s.id === 'outro') continue;

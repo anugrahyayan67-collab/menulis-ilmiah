@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Backsound orisinal untuk "Elektron Tanpa Alamat" (Teori Orbital Molekul).
+"""Backsound orisinal untuk "Dari Kepala ke Kertas" (menulis karya ilmiah).
 
 Disintesis sepenuhnya dengan numpy (tanpa sampel berlisensi) dan diselaraskan
 dengan peta scene dari `npm run timeline` (public/timeline.json):
@@ -51,7 +51,7 @@ MOODS = {
     'resolve': (['Bbmaj7', 'Fmaj7', 'Csus', 'Dm9'], 5.33, 0.50, 0.30, 0.20, 2, 0.10, 0.06, 0.65),
     'outro': (['Fmaj7', 'Bbmaj7', 'Fmaj7'], 4.0, 0.60, 0.25, 0.00, 0, 0.18, 0.00, 0.60),
 }
-BEAT = 60 / 88  # 88 BPM
+BEAT = 60 / 92  # 92 BPM
 
 
 def env_adsr(n, a, r, sustain=1.0):
@@ -217,7 +217,7 @@ def main():
         start = s['start']
         end = s['end']
         seg_len = end - start + XF
-        d, w = render_section(s['mood'], seg_len, seed=1100 + i)
+        d, w = render_section(s['mood'], seg_len, seed=2300 + i)
         nseg = d.shape[1]
         fade = np.ones(nseg, dtype=np.float32)
         nin = int((XF if i else 0.01) * SR)

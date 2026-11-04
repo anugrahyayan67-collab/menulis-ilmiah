@@ -1,20 +1,20 @@
 # Konteks repo (untuk asisten AI)
 
-- Video **"Elektron Tanpa Alamat" — Kimia Kuantum: Teori Orbital Molekul (diatomik)** (S1 Kimia UNESA, RPS pertemuan 10) milik **Yayan** (Septian Anugrah). Mesin disalin dari `video-ikatan-valensi` (komponen vbB: peta kerapatan & orbital 2D; vbC: orbital 3D). Sebelumnya: VBT (video-ikatan-valensi). Berikutnya: MO poliatomik/Hückel & simetri. Aturan umum & pelajaran teknis: repo `septiananugrah-ship-it/science-intro` → `CLAUDE.md`.
-- Gaya seri kuantum Yayan: panggung gelap, aksen **emas–sian**, font Outfit + Source Serif 4 + JetBrains Mono, subtitle kata-per-kata. Tanpa nama di video (aturan video kuantum).
-- Benang merah cerita: **oksigen cair yang menempel di magnet** (cliffhanger video VBT) → LCAO, ikatan/antiikatan, orde ikatan → diagram O₂ dengan dua elektron π* sejajar (terpecahkan) → ion, CO, HOMO/LUMO → bukti PES, oksigen singlet, nitrogen.
-- **Kode warna**: orbital ikatan = sian `C.cyan`, antiikatan = merah `C.red`, orbital atom = abu-biru `C.muted`/`C.blue`, fase + / − = emas `C.gold` / ungu `C.violet`, σ = sian, π = jingga `C.amber`, π* = merah muda `C.pink`, spin ↑ sian / ↓ merah muda, HOMO = emas, LUMO = mint `C.mint`; atom CPK (O merah, N biru, C abu, H putih).
-- Diagram MO: dua kolom orbital atom di kiri/kanan, MO di tengah, garis putus-putus penghubung, elektron sebagai panah ↑↓ yang diisi bergiliran (Aufbau, Pauli, Hund); energi kualitatif (tidak berskala).
-- **Semua adegan harus terus bergerak** (elektron di kotak orbital, vektor L/S berpresesi, tabel mikrostatus yang terkelupas, garis spektrum menyala).
+- Video **"Dari Kepala ke Kertas" — menulis karya ilmiah dari nol** milik **Yayan** (Septian Anugrah). Mesin disalin dari `video-orbital-molekul`. Aturan umum & pelajaran teknis: repo `septiananugrah-ship-it/science-intro` → `CLAUDE.md`.
+- **Gaya "Studio Tulis"** (pengguna minta modern, tegas, nyaman di mata — BUKAN gelap ala kuantum, BUKAN kertas krem/buram/vintage): latar rata `#f3f5fa` + kisi titik tipis, kartu putih bergaris tepi 1,5 px + garis aksen atas, stabilo kuning `C.hilite`, coretan & koreksi merah `C.red`. Tanpa vignette, tanpa grain, tanpa blur, tanpa kertas miring. Font Outfit (UI) + Source Serif 4 (teks dokumen) + JetBrains Mono (label).
+- Merek: kapsul logo S + SCIENTIAN + "Explore Science with Yayan" di judul & penutup; penutup "Disusun oleh Septian Anugrah Dwi Putra". Tanpa intro terpisah.
+- Benang merah: contoh berjalan **ekstrak kubis ungu sebagai indikator asam basa** — dari topik → pertanyaan → sumber → kartu catatan → kerangka → paragraf → sitasi → laporan → revisi.
+- **Kode warna bagian**: 1 Persiapan biru, 2 Sumber & membaca teal, 3 Menyusun ungu, 4 Mengutip merah, 5 Merakit & merevisi hijau (`PARTS` di `ChapterHeading.tsx`).
+- Gaya bahasa naskah mengikuti aturan menulis yang diajarkan: hindari "bukan…melainkan", "tidak hanya…tetapi juga", "Penting untuk dicatat", "Dengan kata lain"; penghubung level 3 (selain itu, oleh karena itu, dengan demikian).
+- Komponen: `src/components/paper.tsx` (Paper, TypeText + Seg: stabilo/coret/perbaikan/kotak/garis bawah, NoteCard, Check, DocPage, Magnifier, Pen, Kicker).
 - **Claude tidak menjalankan workflow GitHub Actions.** Setelah merge ke `main`, minta pengguna menekan *Run workflow*.
-- Narasi menyusul. Selalu sediakan versi tanpa narasi.
+- Narasi belum direkam (Edge TTS gratis tersedia: `mesin: edge`). Selalu sediakan versi tanpa narasi.
 
 ## Aturan konten & tata letak
-- Rumus/simbol term utama ≥ 56 px (`Formula`), satu kartu per momen; zona subtitle (bawah 180 px) bebas; margin ≥ 80 px. Komponen HTML di luar `<Stage>`.
-- Rumus kimia & hibrida ditulis dengan subskrip/superskrip benar (H₂, sp³; `Sup`/`Sub` di HTML, `tspan baselineShift` di SVG). Orbital 3D digambar dengan proyeksi sederhana dan rotasi pelan. Angka dicek di `naskah/AUDIT.md`.
-- Teks TTS terpisah dari subtitle (`tts:` per baris; huruf tunggal dieja di `src/tts.ts`).
-- Kemulusan: `EASE` lembut, fade keluar `EASE_IN_OUT`; tanpa ganti berdasarkan ambang (silang-pudar); tanpa CSS blur; tanpa filter pada garis lurus.
+- Klaim faktual & contoh kalimat bersumber dicek di `naskah/AUDIT.md`; data tabel laporan diberi label "contoh data".
+- Zona subtitle (bawah 180 px) bebas; margin ≥ 80 px; komponen HTML di luar `<Stage>`.
+- Kemulusan: tanpa ganti gaya berdasarkan ambang (pakai `interpolateColors` / silang-pudar), tanpa CSS blur, tanpa emoji (font headless tidak punya glyph → pakai SVG).
 
 ## QA
-- `CHROME_PATH=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell node scripts/qa-lines.mjs out/x <adegan...>` lalu `python3 scripts/contact.py out/x out/x-s 9`.
+- `CHROME_PATH=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell node scripts/qa-lines.mjs out/x <adegan...>` lalu `python3 scripts/contact.py out/x out/x-s 3`.
 - `npm run check` (cek kata `wordOf`), uji kemulusan `node scripts/qa-film.mjs out/a.mp4 0 99999 0.25` lalu `python3 scripts/qa-glitch.py out/a.mp4 0`.
