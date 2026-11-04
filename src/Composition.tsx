@@ -23,8 +23,9 @@ const SceneShell: React.FC<{children: React.ReactNode}> = ({children}) => {
   const {t, dur} = useScene();
   const enter = ramp(t, 0, 0.8, EASE);
   const exit = ramp(t, dur - 0.7, dur + 0.05, EASE_IN_OUT);
-  const swayX = 4 * Math.sin(t * 0.31 + 1.3);
-  const swayY = 3 * Math.sin(t * 0.23) + 22 * (1 - enter) - 18 * exit;
+  // tanpa goyangan halus: di latar terang, teks yang bergeser sub-piksel tampak "melompat" 1 px
+  const swayX = 0;
+  const swayY = 22 * (1 - enter) - 18 * exit;
   return (
     <AbsoluteFill style={{opacity: enter * (1 - exit), willChange: 'transform', translate: `${swayX.toFixed(2)}px ${swayY.toFixed(2)}px`}}>
       {children}

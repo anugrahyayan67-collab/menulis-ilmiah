@@ -7,27 +7,43 @@ BAGIAN 1 · Prinsip & teori dasar
 01:31 Bab 01 · Apa itu tulisan ilmiah
 02:18 Bab 02 · Kenali jenis karyanya
 03:10 Bab 03 · Dari topik ke pertanyaan
+03:57 Bab 04 · Menulis itu bertahap
 
 BAGIAN 2 · Implementasi dalam kimia
-03:57 Bab 04 · Berburu sumber
-04:53 Bab 05 · Membaca jurnal tanpa tenggelam
-05:43 Bab 06 · Mencatat dengan rapi
+04:45 Bab 05 · Berburu sumber
+05:40 Bab 06 · Menilai sumber
+06:27 Bab 07 · Membaca jurnal tanpa tenggelam
+07:17 Bab 08 · Mencatat dengan rapi
+07:59 Bab 09 · Mengelola referensi
 
 BAGIAN 3 · Penerapan di industri
-06:24 Bab 07 · Kerangka dulu, kalimat kemudian
-07:02 Bab 08 · Membangun paragraf
-07:50 Bab 09 · Kalimat yang saling menyambung
-08:38 Bab 10 · Kalimat efektif
-09:24 Bab 11 · Ejaan dan bahasa baku
-10:13 Bab 12 · Menulis dengan wajar
+08:40 Bab 10 · Kerangka dulu, kalimat kemudian
+09:17 Bab 11 · Menyusun judul
+10:00 Bab 12 · Membangun paragraf
+10:48 Bab 13 · Menggabungkan beberapa sumber
+11:39 Bab 14 · Kalimat yang saling menyambung
+12:28 Bab 15 · Kalimat efektif
+13:13 Bab 16 · Kata baku
+13:58 Bab 17 · Ejaan dan bahasa baku
+14:47 Bab 18 · Tanda baca
+15:34 Bab 19 · Angka, satuan, dan rumus
+16:26 Bab 20 · Menulis dengan wajar
 
 BAGIAN 4 · undefined
-11:01 Bab 13 · Mengutip dan memparafrase
-11:45 Bab 14 · Sitasi dan daftar pustaka APA
+17:14 Bab 21 · Mengutip dan memparafrase
+17:58 Bab 22 · Kutipan panjang dan sumber sekunder
+18:45 Bab 23 · Sitasi dan daftar pustaka APA
+19:36 Bab 24 · Cek kemiripan dan etika AI
 
 BAGIAN 5 · undefined
-12:36 Bab 15 · Merakit laporan praktikum
-13:25 Bab 16 · Artikel dan abstrak
-14:12 Bab 17 · Revisi
+20:31 Bab 25 · Merakit laporan praktikum
+21:20 Bab 26 · Hipotesis di laporan sementara
+22:02 Bab 27 · Tabel dan gambar
+22:45 Bab 28 · Menulis pembahasan
+23:26 Bab 29 · Simpulan dan saran
+24:03 Bab 30 · Artikel dan abstrak
+24:49 Bab 31 · Makalah dan esai lomba
+25:37 Bab 32 · Merapikan di Word
+26:20 Bab 33 · Revisi
 
-14:53 Bab 18 · Dari kepala ke kertas
+27:01 Bab 34 · Dari kepala ke kertas

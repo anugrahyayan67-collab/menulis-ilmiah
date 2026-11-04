@@ -29,6 +29,12 @@ topik-02	Lalu ubah menjadi pertanyaan: bagaimana perubahan warna ekstrak kubis u
 topik-03	Pertanyaan ini menjadi kompas. Setiap paragraf yang kamu tulis nanti harus membantu menjawabnya.
 topik-04	Dari pertanyaan, tujuan bisa langsung dirumuskan: mengetahui perubahan warna ekstrak kubis ungu pada berbagai pe ha.
 topik-05	Tujuan yang baik memakai kata kerja yang bisa diukur, seperti mengetahui, menentukan, atau membandingkan.
+alur-00	Menulis jadi lebih ringan kalau dibagi menjadi beberapa tahap.
+alur-01	Tahapnya: merencanakan, mencari dan membaca sumber, menulis draf, merevisi, lalu menyunting.
+alur-02	Buat jadwal mundur dari tenggat. Misalnya tenggatnya hari Jumat, maka draf harus selesai hari Rabu supaya ada waktu untuk revisi.
+alur-03	Saat menulis draf, fokus pada isi dulu. Ejaan dan kerapian bisa diperbaiki belakangan.
+alur-04	Kamu juga tidak harus menulis berurutan. Mulailah dari bagian yang paling mudah, misalnya cara kerja atau hasil pengamatan.
+alur-05	Yang penting, setiap hari ada kemajuan, walaupun hanya satu paragraf.
 cari-00	Sekarang saatnya mencari sumber. Tempat yang paling mudah adalah Gugel Skolar.
 cari-01	Untuk jurnal Indonesia ada Garuda dan Sinta, sedangkan de o a je mengumpulkan jurnal akses terbuka dari banyak negara.
 cari-02	Pakai kata kunci yang spesifik, misalnya antosianin kubis ungu indikator, lalu batasi tahun terbitnya.
@@ -36,6 +42,12 @@ cari-03	Banyak dosen meminta jurnal dan buku, jadi prosiding, skripsi, dan blog 
 cari-04	Jurnal yang jelas punya nama jurnal, volume, nomor, halaman, i es es en, dan biasanya de o i.
 cari-05	De o i adalah alamat tetap sebuah artikel. Dengan de o i, siapa pun bisa menemukan artikel yang sama.
 cari-06	Simpan setiap pe de ef dengan nama penulis dan tahun, supaya mudah dicari saat menulis.
+nilai-00	Tidak semua yang terlihat seperti jurnal layak dikutip.
+nilai-01	Cek dulu apakah jurnalnya melakukan pir rivyu, yaitu naskah ditelaah oleh ahli sebelum terbit.
+nilai-02	Untuk jurnal Indonesia, cek juga apakah jurnal itu terdaftar di Sinta dan berapa peringkatnya.
+nilai-03	Waspadai jurnal predator: menjanjikan terbit sangat cepat, meminta biaya tanpa proses telaah yang jelas, dan sering mengirim undangan lewat surel.
+nilai-04	Setelah itu, nilai isinya. Apakah relevan dengan pertanyaanmu, cukup baru, dan metodenya jelas?
+nilai-05	Buku teks tetap sumber yang kuat untuk konsep dasar, walaupun terbitnya sudah agak lama.
 baca-00	Satu artikel jurnal bisa lebih dari sepuluh halaman. Kamu tidak perlu membacanya dari awal sampai akhir sekaligus.
 baca-01	Pakai cara tiga putaran.
 baca-02	Putaran pertama hanya lima sampai sepuluh menit: baca judul, abstrak, judul bagian, dan simpulan.
@@ -49,11 +61,22 @@ catat-02	Tulis kutipan aslinya, lalu di bawahnya tulis ulang dengan kalimatmu se
 catat-03	Kumpulkan kartu dalam tabel sederhana: sumber di baris, subtopik di kolom.
 catat-04	Dari tabel ini kelihatan subtopik mana yang sudah kuat dan mana yang masih kurang sumber.
 catat-05	Kalau ada klaim yang belum ketemu sumbernya, tandai dulu dan jangan dikarang.
+kelola-00	Kalau sumbernya sudah banyak, menulis daftar pustaka secara manual mudah salah.
+kelola-01	Gunakan pengelola referensi seperti Zotero atau Mendelei. Keduanya bisa dipakai gratis.
+kelola-02	Simpan artikel dengan sekali klik dari peramban, atau masukkan de o i nya, lalu penulis, tahun, dan judulnya terisi otomatis.
+kelola-03	Di Word, sitasi bisa disisipkan langsung, dan daftar pustaka tersusun sendiri dengan gaya a pe a.
+kelola-04	Tetap periksa hasilnya. Data otomatis kadang salah, misalnya nama penulis atau huruf kapital pada judul.
 kerangka-00	Sebelum menulis paragraf, susun kerangka, yaitu daftar subbab dan poin utama yang akan dibahas.
 kerangka-01	Untuk dasar teori kubis ungu, kerangkanya bisa seperti ini: asam dan basa, pe ha, indikator, lalu antosianin.
 kerangka-02	Urutkan dari yang umum ke yang khusus, supaya pembaca dibawa pelan-pelan menuju topik utama.
 kerangka-03	Di bawah setiap subbab, tempelkan kartu catatan yang cocok.
 kerangka-04	Dengan cara ini, setiap paragraf sudah punya bahan dan sumber sebelum kamu mulai menulis.
+judul-00	Judul adalah bagian yang pertama kali dibaca, jadi buat ringkas dan jelas.
+judul-01	Judul yang baik memuat kata kunci utama: apa yang diteliti, dan kalau perlu, pada objek apa.
+judul-02	Bandingkan dua judul ini. Judul pertama, studi tentang warna, masih terlalu umum.
+judul-03	Judul kedua, perubahan warna ekstrak kubis ungu sebagai indikator asam basa alami, langsung menunjukkan isinya.
+judul-04	Hindari singkatan yang tidak umum dan kata yang tidak perlu, seperti suatu studi tentang.
+judul-05	Panjang judul mengikuti aturan dari dosen atau jurnal tujuan.
 paragraf-00	Paragraf yang baik membahas satu gagasan pokok.
 paragraf-01	Gagasan itu ditulis dalam kalimat utama, lalu didukung beberapa kalimat penjelas.
 paragraf-02	Kalau kalimat utama ada di awal, polanya disebut deduktif. Pola ini paling sering dipakai di tulisan ilmiah.
@@ -61,6 +84,12 @@ paragraf-03	Kalau kalimat utama ada di akhir sebagai simpulan, polanya disebut i
 paragraf-04	Kalau ada di awal lalu ditegaskan lagi di akhir, polanya disebut campuran.
 paragraf-05	Kalimat penjelas bisa berisi definisi, contoh, data, atau sebab dan akibat.
 paragraf-06	Satu paragraf biasanya tiga sampai tujuh kalimat. Begitu masuk gagasan baru, buat paragraf baru.
+sintesis-00	Dasar teori yang hanya berisi ringkasan sumber satu per satu terasa seperti tumpukan catatan.
+sintesis-01	Cara yang lebih baik adalah sintesis, yaitu menggabungkan beberapa sumber yang membahas gagasan yang sama ke dalam satu paragraf.
+sintesis-02	Gunakan matriks sumber tadi. Lihat kolom antosianin, lalu kumpulkan semua sumber yang membahasnya.
+sintesis-03	Tulis gagasan utamanya, lalu cantumkan beberapa sumber sekaligus dalam satu sitasi, dipisah titik koma.
+sintesis-04	Kalau sumber saling melengkapi, tulis bahwa sumber lain menambahkan atau mendukung. Kalau hasilnya berbeda, sebutkan perbedaannya.
+sintesis-05	Cara ini juga melatih membaca kritis: memperhatikan klaim, bukti yang mendukungnya, dan batasannya.
 padu-00	Paragraf terasa mengalir kalau kalimat-kalimatnya saling menyambung.
 padu-01	Ada tiga alat penyambung. Pertama, kata penghubung, seperti selain itu, oleh karena itu, dan dengan demikian.
 padu-02	Kedua, mengulang kata kunci. Kalimat berikutnya menyebut lagi antosianin, atau menyebutnya senyawa tersebut.
@@ -73,12 +102,30 @@ efektif-02	Buang kata dalam, sehingga hasil pengamatan menjadi subjeknya.
 efektif-03	Hemat kata. Para mahasiswa-mahasiswa cukup ditulis para mahasiswa.
 efektif-04	Jaga kesejajaran. Kalau daftar memakai kata kerja, semua unsurnya kata kerja: menimbang, melarutkan, dan menyaring.
 efektif-05	Jangan terlalu dipadatkan. Satu kalimat yang memuat tiga gagasan lebih baik dipecah menjadi dua atau tiga kalimat.
+baku-00	Tulisan ilmiah memakai kata baku. Banyak kata yang sering salah tulis karena terbawa kebiasaan.
+baku-01	Contohnya, analisa yang baku adalah analisis, dan praktek yang baku adalah praktik.
+baku-02	Hipotesa menjadi hipotesis, resiko menjadi risiko, dan sistim menjadi sistem.
+baku-03	Hindari juga kata percakapan seperti nggak, banget, atau gimana.
+baku-04	Kalau ragu, cek di ka be be i daring. Bentuk baku dan tidak baku dicantumkan di sana.
+baku-05	Kata ganti saya, kita, atau kami juga sebaiknya dihindari di laporan. Gunakan kalimat pasif, atau sebut objeknya langsung.
 ejaan-00	Pegangan ejaan bahasa Indonesia saat ini adalah e ye de edisi kelima, yang terbit tahun dua ribu dua puluh dua.
 ejaan-01	Kata depan di ditulis terpisah, seperti di laboratorium. Awalan di ditulis serangkai, seperti dipanaskan.
 ejaan-02	Istilah asing yang belum diserap dicetak miring, misalnya bafer. Nama latin juga miring, seperti Brasika oleracea.
 ejaan-03	Angka di awal kalimat ditulis dengan huruf.
 ejaan-04	Hindari dimana sebagai kata penghubung. Gunakan yang atau tempat, sesuai maksudnya.
 ejaan-05	Cara kerja di laporan praktikum biasanya ditulis dalam kalimat pasif, seperti larutan dipanaskan selama lima menit.
+tanda-00	Tanda baca yang tepat membuat kalimat lebih jelas.
+tanda-01	Koma dipakai sebelum kata penghubung tetapi, melainkan, dan sedangkan.
+tanda-02	Koma juga dipakai setelah penghubung antarkalimat di awal kalimat, seperti oleh karena itu, dan dengan demikian.
+tanda-03	Kalau anak kalimat mendahului induk kalimat, beri koma di antaranya. Contohnya, karena larutannya asam, warnanya menjadi merah.
+tanda-04	Titik dua dipakai sebelum rincian, dan tidak dipakai kalau rincian itu melengkapi kalimat, misalnya sesudah kata adalah.
+tanda-05	Kalimat yang dipenuhi banyak koma biasanya perlu dipecah menjadi beberapa kalimat.
+angka-00	Di laporan kimia, angka dan satuan muncul di mana-mana, jadi tulis dengan konsisten.
+angka-01	Bahasa Indonesia memakai koma untuk desimal, misalnya nol koma satu molar, dan titik untuk ribuan.
+angka-02	Beri spasi antara angka dan satuan, misalnya lima mililiter, dan pakai satuan resmi seperti mililiter, gram, dan derajat Selsius.
+angka-03	Rumus kimia ditulis dengan subskrip yang benar, misalnya ha dua o, dan persamaan reaksi diberi wujud zat.
+angka-04	Simbol besaran dicetak miring, misalnya te untuk waktu, sedangkan satuannya ditulis tegak.
+angka-05	Bilangan yang bisa ditulis dengan satu atau dua kata ditulis dengan huruf, kecuali bila diikuti satuan atau berupa data.
 alami-00	Sekarang soal gaya. Banyak tulisan terasa kaku karena memakai pola yang sama berulang-ulang.
 alami-01	Contohnya pola perbandingan seperti bukan ini melainkan itu, atau tidak hanya ini tetapi juga itu, hampir di setiap paragraf.
 alami-02	Ada juga frasa yang terlalu sering dipakai, seperti penting untuk dicatat, atau dengan kata lain.
@@ -91,6 +138,12 @@ kutip-02	Parafrase menulis ulang gagasan sumber dengan kalimatmu sendiri, tetap 
 kutip-03	Caranya: baca sampai paham, tutup sumbernya, tulis dengan kalimatmu, lalu cocokkan lagi dengan aslinya.
 kutip-04	Pastikan maknanya tetap sama. Parafrase tidak boleh menambah klaim yang tidak ada di sumber.
 kutip-05	Mengganti beberapa kata dari kalimat asli tanpa menyebut sumbernya tetap termasuk plagiarisme.
+khusus-00	Ada beberapa kasus khusus dalam mengutip.
+khusus-01	Kutipan langsung yang panjangnya empat puluh kata atau lebih ditulis sebagai blok terpisah, menjorok, tanpa tanda petik.
+khusus-02	Kalau kamu membaca gagasan seorang tokoh dari buku orang lain, itu sumber sekunder. Contohnya teori Arenius yang kamu baca dari buku Overbi dan Cang.
+khusus-03	Di daftar pustaka, cukup tulis sumber yang benar-benar kamu baca. Kalau bisa, cari juga sumber aslinya.
+khusus-04	Untuk parafrase, ada tiga teknik yang bisa digabung: ubah struktur kalimat, pakai padanan kata, lalu gabungkan atau pecah kalimatnya.
+khusus-05	Ingat, ketiganya tetap butuh sitasi.
 apa-00	Gaya sitasi yang banyak dipakai adalah a pe a edisi ketujuh.
 apa-01	Di dalam teks, tulis nama belakang penulis dan tahun terbitnya, misalnya Ayun et al, dua ribu dua puluh dua.
 apa-02	Penulis satu atau dua orang ditulis semua namanya. Tiga orang atau lebih cukup nama pertama lalu et al.
@@ -98,6 +151,13 @@ apa-03	Di daftar pustaka, sumber diurutkan menurut abjad nama penulis.
 apa-04	Untuk jurnal: penulis, tahun, judul artikel, nama jurnal dan volume yang dicetak miring, nomor, halaman, lalu de o i.
 apa-05	Untuk buku: penulis, tahun, judul buku yang dicetak miring, edisi, lalu penerbit.
 apa-06	Setiap sitasi di teks harus ada di daftar pustaka, dan sebaliknya.
+etika-00	Banyak kampus memeriksa naskah dengan perangkat pengecek kemiripan, misalnya Tarnitin.
+etika-01	Angka kemiripan perlu dibaca dengan teliti, karena kutipan yang benar dan daftar pustaka juga ikut terhitung.
+etika-02	Batas yang diizinkan ditentukan oleh kampus atau jurnal, jadi tanyakan aturannya.
+etika-03	Sekarang soal kecerdasan buatan. Aturan pemakaiannya berbeda di setiap kampus dan mata kuliah, jadi baca tata tertibnya dulu.
+etika-04	Kalau diizinkan, pakai sebagai alat bantu, misalnya untuk mencari ide atau memeriksa ejaan.
+etika-05	Kecerdasan buatan bisa mengarang sumber yang tidak ada, jadi setiap sitasi harus kamu buka dan cek sendiri.
+etika-06	Pada akhirnya, kamu yang bertanggung jawab atas setiap kalimat yang kamu kumpulkan.
 laporan-00	Sekarang semua bahan dirakit, mulai dari laporan praktikum.
 laporan-01	Tujuan ditulis singkat sesuai panduan. Dasar teori berisi konsep yang dibutuhkan untuk menjelaskan hasil, lengkap dengan sitasi.
 laporan-02	Alat, bahan, dan cara kerja ditulis sesuai yang benar-benar dilakukan.
@@ -105,6 +165,29 @@ laporan-03	Hasil pengamatan berisi data apa adanya, biasanya dalam tabel.
 laporan-04	Pembahasan adalah bagian terpenting. Di sini kamu menjelaskan mengapa hasilnya begitu, lalu membandingkannya dengan teori.
 laporan-05	Kalau hasil berbeda dari teori, jelaskan kemungkinan penyebabnya dengan jujur.
 laporan-06	Simpulan menjawab tujuan satu per satu, tanpa menambah bahasan baru.
+hipotesis-00	Sebelum praktikum, biasanya ada laporan sementara yang memuat hipotesis.
+hipotesis-01	Hipotesis adalah dugaan sementara tentang hasil percobaan yang disusun berdasarkan teori.
+hipotesis-02	Polanya sederhana: apa yang diduga terjadi, lalu alasannya, lalu sitasi.
+hipotesis-03	Contohnya, ekstrak kubis ungu diduga berwarna merah dalam larutan asam kuat, karena struktur antosianin berubah mengikuti pe ha.
+hipotesis-04	Pakai kata diduga, karena hasilnya belum diamati.
+hipotesis-05	Setelah praktikum, hipotesis dibandingkan dengan hasil di bagian pembahasan.
+tabel-00	Data yang banyak lebih mudah dibaca dalam tabel atau gambar.
+tabel-01	Setiap tabel dan gambar diberi nomor dan judul, misalnya Tabel 1 atau Gambar 1.
+tabel-02	Pada umumnya, judul tabel diletakkan di atas tabel, sedangkan keterangan gambar diletakkan di bawah gambar. Ikuti panduan yang berlaku.
+tabel-03	Kalau tabel atau gambar diambil dari sumber lain, tulis sumbernya di bawahnya.
+tabel-04	Setiap tabel dan gambar harus disebut di dalam teks, misalnya seperti yang ditunjukkan pada Tabel 1.
+tabel-05	Tabel juga perlu dijelaskan. Tulis di paragraf apa yang penting dari tabel itu.
+bahas-00	Pembahasan sering terasa paling sulit, jadi pakai pola yang tetap.
+bahas-01	Pertama, nyatakan hasilnya. Misalnya, ekstrak kubis ungu berwarna merah dalam larutan ha ce el.
+bahas-02	Kedua, jelaskan mengapa dengan teori dan sitasi, misalnya karena struktur antosianin berubah mengikuti pe ha larutan.
+bahas-03	Ketiga, bandingkan dengan hipotesis atau penelitian lain, apakah sesuai atau berbeda.
+bahas-04	Keempat, kalau ada penyimpangan, jelaskan kemungkinan penyebabnya.
+bahas-05	Ulangi pola ini untuk setiap hasil, sampai semua tujuan terjawab.
+simpulan-00	Simpulan adalah jawaban singkat atas tujuan.
+simpulan-01	Kalau tujuannya ada dua, simpulannya juga dua, dengan urutan yang sama.
+simpulan-02	Simpulan biasanya ditulis tanpa sitasi dan tanpa penjelasan panjang, karena penjelasannya sudah ada di pembahasan.
+simpulan-03	Saran berisi masukan yang muncul dari kegiatanmu, misalnya cara memperbaiki percobaan berikutnya.
+simpulan-04	Saran yang baik bisa dilakukan, misalnya memakai pe ha meter supaya warna bisa dikaitkan dengan nilai pe ha yang tepat.
 artikel-00	Artikel jurnal mengikuti pola imrad.
 artikel-01	Pendahuluan berangkat dari masalah, menunjukkan apa yang sudah diteliti, lalu menyebut celah dan tujuan penelitian.
 artikel-02	Metode ditulis cukup rinci supaya orang lain bisa mengulang penelitianmu.
@@ -112,6 +195,18 @@ artikel-03	Hasil menyajikan data, sedangkan pembahasan menafsirkan data itu dan 
 artikel-04	Abstrak ditulis paling akhir, walaupun letaknya paling depan.
 artikel-05	Isinya latar belakang, tujuan, metode, hasil utama, dan simpulan, biasanya dalam satu paragraf.
 artikel-06	Panjang abstrak dan formatnya mengikuti aturan penulis di jurnal tujuan.
+makalah-00	Makalah membahas satu topik dari berbagai sumber.
+makalah-01	Pendahuluannya berisi latar belakang, rumusan masalah, dan tujuan penulisan.
+makalah-02	Latar belakang disusun seperti piramida terbalik: dari keadaan umum, ke masalah, lalu ke alasan topik ini penting dibahas.
+makalah-03	Pembahasan menjawab rumusan masalah satu per satu, dan penutup berisi simpulan.
+makalah-04	Karya tulis untuk lomba menambahkan gagasan: apa solusinya, apa kebaruannya, dan bagaimana cara menerapkannya.
+makalah-05	Juri biasanya menilai kejelasan masalah, kekuatan data dan sumber, serta apakah gagasan itu masuk akal untuk diterapkan.
+word-00	Sekarang rapikan dokumenmu di Word dengan fitur yang tepat.
+word-01	Atur ukuran kertas, margin, huruf, dan spasi sejak awal, sesuai panduan.
+word-02	Pakai Stails, misalnya Heding wan dan Heding tu, untuk judul bab dan subbab. Daftar isi bisa dibuat otomatis dari situ.
+word-03	Pakai Insert Kepsyen untuk nomor tabel dan gambar, supaya nomornya urut sendiri.
+word-04	Kalau halaman awal memakai angka romawi dan isi memakai angka biasa, pisahkan dengan Seksyen Breik.
+word-05	Terakhir, simpan juga sebagai pe de ef supaya tampilannya tidak berubah saat dibuka di perangkat lain.
 revisi-00	Tulisan pertama adalah draf. Tulisan yang baik lahir saat revisi.
 revisi-01	Diamkan drafmu sebentar, lalu baca lagi dengan mata pembaca.
 revisi-02	Periksa dari yang besar ke yang kecil: isi dan urutan dulu, lalu paragraf, lalu kalimat, terakhir ejaan.

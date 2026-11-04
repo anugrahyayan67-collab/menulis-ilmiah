@@ -7,11 +7,11 @@ import {useScene} from '../SceneContext';
 import {C, FONT} from '../theme';
 
 const ITEMS: string[][] = [
-  ['Ciri tulisan ilmiah', 'Jenis karya', 'Topik → pertanyaan'],
-  ['Mencari sumber', 'Membaca jurnal', 'Mencatat'],
-  ['Kerangka & paragraf', 'Kalimat & ejaan', 'Gaya yang wajar'],
-  ['Kutipan & parafrase', 'Sitasi APA', 'Daftar pustaka'],
-  ['Laporan praktikum', 'Artikel & abstrak', 'Revisi'],
+  ['Ciri & jenis karya', 'Topik → pertanyaan', 'Tahapan menulis'],
+  ['Mencari & menilai sumber', 'Membaca jurnal', 'Catatan & Zotero'],
+  ['Kerangka, judul, paragraf', 'Kalimat, ejaan, tanda baca', 'Angka & gaya wajar'],
+  ['Kutipan & parafrase', 'Sitasi APA', 'Plagiarisme & AI'],
+  ['Laporan & hipotesis', 'Tabel, pembahasan, simpulan', 'Artikel, makalah, revisi'],
 ];
 
 /** Kubis ungu sederhana + tabung reaksi berwarna (contoh berjalan sepanjang video). */

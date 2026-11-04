@@ -54,7 +54,7 @@ export const Captions: React.FC = () => {
   // Pergantian halaman yang menyambung: halaman lama (teks + kapsul) memudar ±0,2 dtk
   // sementara kata halaman baru muncul — tidak ada lagi teks yang lenyap dalam 1 frame.
   const prev = page.contIn && idx > 0 ? PAGES[idx - 1] : null;
-  const ghost = prev ? 1 - ramp(t, page.start, page.start + 0.16, (x) => 1 - (1 - x) * (1 - x)) : 0;
+  const ghost = prev ? 1 - ramp(t, page.start, page.start + 0.3, (x) => x) : 0;
   return (
     <>
       {prev && ghost > 0.001 ? <PageText page={prev} t={t} opacity={ghost} ghost /> : null}
@@ -87,7 +87,7 @@ const PageText: React.FC<{page: Page; t: number; opacity: number; lift?: number;
         {page.words.map((w, i) => {
           const spoken = ramp(t, w.start - 0.04, w.start + 0.14);
           const active = Math.min(ramp(t, w.start - 0.06, w.start + 0.08), 1 - ramp(t, w.end, w.end + 0.18, EASE_IN_OUT));
-          const appear = ghost ? 1 : ramp(t, page.start + i * 0.02, page.start + i * 0.02 + 0.3);
+          const appear = ghost ? 1 : ramp(t, page.start + i * 0.015, page.start + i * 0.015 + 0.18);
           return (
             <span
               key={i}
