@@ -50,7 +50,7 @@ export const Simpulan: React.FC = () => {
       <Panel x={920} y={600} w={890} h={240} p={sar} title="saran" col={C.amber}>
         <div style={{fontFamily: FONT.serif, fontSize: 28, lineHeight: 1.5, color: C.muted, position: 'relative', opacity: 1 - 0.6 * good}}>
           “Sebaiknya praktikum dilakukan dengan lebih baik.”
-          <span style={{position: 'absolute', left: -4, top: '55%', height: 4, width: `calc(${(good * 100).toFixed(1)}% + 8px)`, background: C.red, borderRadius: 2}} />
+          <span style={{position: 'absolute', left: -4, top: '55%', height: 4, width: `calc(${(good * 100).toFixed(1)}% + ${(8 * (good)).toFixed(2)}px)`, background: C.red, borderRadius: 2}} />
         </div>
         <div style={{fontFamily: FONT.serif, fontSize: 28, lineHeight: 1.5, color: C.ink, marginTop: 8, opacity: good}}>
           “Warna sebaiknya dikaitkan dengan nilai pH yang diukur memakai pH meter.”

@@ -98,7 +98,7 @@ export const Fix: React.FC<{bad: string; good: string; p: number; size?: number}
   <div style={{display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '6px 20px', fontFamily: FONT.serif, fontSize: size, marginTop: 14}}>
     <span style={{position: 'relative', color: C.muted}}>
       {bad}
-      <span style={{position: 'absolute', left: -4, top: '55%', height: 4, width: `calc(${(Math.min(1, p * 2) * 100).toFixed(1)}% + 8px)`, background: C.red, borderRadius: 2}} />
+      <span style={{position: 'absolute', left: -4, top: '55%', height: 4, width: `calc(${(Math.min(1, p * 2) * 100).toFixed(1)}% + ${(8 * (Math.min(1, p * 2))).toFixed(2)}px)`, background: C.red, borderRadius: 2}} />
     </span>
     <span style={{color: C.mint, fontFamily: FONT.sans, fontWeight: 800, opacity: Math.max(0, Math.min(1, p * 2 - 0.6))}}>→</span>
     <span style={{color: C.ink, fontWeight: 600, opacity: Math.max(0, Math.min(1, p * 2 - 1)), backgroundImage: `linear-gradient(${C.hilite}, ${C.hilite})`, backgroundRepeat: 'no-repeat', backgroundSize: `${(Math.max(0, Math.min(1, p * 2 - 1)) * 100).toFixed(1)}% 0.55em`, backgroundPosition: '0 0.8em'}}>

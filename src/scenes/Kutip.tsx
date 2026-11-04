@@ -103,7 +103,7 @@ export const Kutip: React.FC = () => {
           dapat berubah pada pH tertentu{' '}
           <span style={{position: 'relative', color: C.red, opacity: extra}}>
             dan aman dikonsumsi
-            <span style={{position: 'absolute', left: -3, top: '55%', height: 4, width: `calc(${(xExtra * 100).toFixed(1)}% + 6px)`, background: C.red, borderRadius: 2}} />
+            <span style={{position: 'absolute', left: -3, top: '55%', height: 4, width: `calc(${(xExtra * 100).toFixed(1)}% + ${(6 * (xExtra)).toFixed(2)}px)`, background: C.red, borderRadius: 2}} />
           </span>
           <div style={{fontFamily: FONT.sans, fontSize: 22, color: C.red, fontWeight: 600, marginTop: 6, opacity: xExtra}}>klaim tambahan yang tidak ada di sumber → hapus</div>
         </div>

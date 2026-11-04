@@ -54,7 +54,7 @@ export const Judul: React.FC = () => {
           <span style={{color: C.mint, opacity: k3}}>konteksnya</span>
         </div>
       </Panel>
-      <Stamp p={strike} text="“Suatu studi tentang” → hapus" x={1440} y={800} rot={-4} size={26} />
+      <Stamp p={strike} text="“Suatu studi tentang” → hapus" x={1420} y={527} rot={-3} size={24} />
       <div style={{position: 'absolute', left: 160, top: 770, opacity: rule, fontFamily: FONT.sans, fontSize: 30, color: C.ink, display: 'flex', alignItems: 'center', gap: 18}}>
         <svg width={260} height={40} viewBox="0 0 260 40">
           <rect x={2} y={8} width={256} height={24} rx={4} fill="#fff" stroke={C.ink} strokeWidth={2} />

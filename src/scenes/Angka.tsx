@@ -15,7 +15,7 @@ const Duo: React.FC<{ok: React.ReactNode; bad: React.ReactNode; p: number}> = ({
     </span>
     <span style={{...big, fontSize: 32, color: C.muted, position: 'relative', opacity: 0.4 + 0.6 * p}}>
       {bad}
-      <span style={{position: 'absolute', left: -4, top: '55%', height: 4, width: `calc(${(p * 100).toFixed(1)}% + 8px)`, background: C.red, borderRadius: 2}} />
+      <span style={{position: 'absolute', left: -4, top: '55%', height: 4, width: `calc(${(p * 100).toFixed(1)}% + ${(8 * (p)).toFixed(2)}px)`, background: C.red, borderRadius: 2}} />
     </span>
   </div>
 );

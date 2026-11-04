@@ -16,7 +16,7 @@ const Parsed: React.FC<{groups: G[]; p: number; size?: number}> = ({groups, p, s
           {g.pre ? (
             <span style={{position: 'relative', opacity: 1 - 0.5 * (g.strike ?? 0), marginRight: '0.25em'}}>
               {g.pre}
-              <span style={{position: 'absolute', left: -3, top: '55%', height: 5, width: `calc(${((g.strike ?? 0) * 100).toFixed(1)}% + 6px)`, background: C.red, borderRadius: 3}} />
+              <span style={{position: 'absolute', left: -3, top: '55%', height: 5, width: `calc(${((g.strike ?? 0) * 100).toFixed(1)}% + ${(6 * ((g.strike ?? 0))).toFixed(2)}px)`, background: C.red, borderRadius: 3}} />
             </span>
           ) : null}
           {g.t}

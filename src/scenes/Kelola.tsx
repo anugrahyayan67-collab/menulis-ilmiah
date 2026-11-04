@@ -57,9 +57,9 @@ export const Kelola: React.FC = () => {
         <div style={{marginTop: 30, fontFamily: FONT.sans, fontWeight: 800, fontSize: 26, color: C.ink, opacity: bib}}>Daftar Pustaka</div>
         <div style={{marginTop: 10, fontFamily: FONT.serif, fontSize: 24, lineHeight: 1.5, paddingLeft: 30, textIndent: -30, opacity: bib}}>
           Leba, M. A. U., dkk. (2023).{' '}
-          <span style={{position: 'relative'}}>
-            <span style={{opacity: 1 - fixP}}>PIGMEN UMBI UBI JALAR UNGU DAN RIMPANG KUNYIT …</span>
-            <span style={{position: 'absolute', left: 0, top: 0, whiteSpace: 'nowrap', opacity: fixP, color: C.mint}}>Pigmen umbi ubi jalar ungu dan rimpang kunyit …</span>
+          <span style={{display: 'inline-grid', textIndent: 0}}>
+            <span style={{gridArea: '1 / 1', opacity: 1 - fixP}}>PIGMEN UMBI UBI JALAR UNGU DAN RIMPANG KUNYIT …</span>
+            <span style={{gridArea: '1 / 1', opacity: fixP, color: C.mint}}>Pigmen umbi ubi jalar ungu dan rimpang kunyit …</span>
           </span>{' '}
           <i>J. Indonesian Society of Integrated Chemistry, 15</i>(2), 99–109.
         </div>

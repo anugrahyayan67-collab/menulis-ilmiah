@@ -127,7 +127,7 @@ const SegSpan: React.FC<{s: Seg; vis: number}> = ({s, vis}) => {
             left: -2,
             top: '52%',
             height: 4,
-            width: `calc(${(strike * 100).toFixed(2)}% + 4px)`,
+            width: `calc(${(strike * 100).toFixed(2)}% + ${(4 * (strike)).toFixed(2)}px)`,
             background: C.red,
             borderRadius: 2,
             transform: 'rotate(-1.2deg)',

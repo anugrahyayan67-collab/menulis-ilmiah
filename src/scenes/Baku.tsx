@@ -35,7 +35,7 @@ export const Baku: React.FC = () => {
           return (
             <div key={w} style={{fontFamily: FONT.sans, fontWeight: 700, fontSize: 52, color: C.muted, marginTop: 24, position: 'relative', width: 'fit-content'}}>
               {w}
-              <span style={{position: 'absolute', left: -6, top: '55%', height: 6, width: `calc(${(q * 100).toFixed(1)}% + 12px)`, background: C.red, borderRadius: 3}} />
+              <span style={{position: 'absolute', left: -6, top: '55%', height: 6, width: `calc(${(q * 100).toFixed(1)}% + ${(12 * (q)).toFixed(2)}px)`, background: C.red, borderRadius: 3}} />
               <span style={{display: 'none'}}>{i}</span>
             </div>
           );

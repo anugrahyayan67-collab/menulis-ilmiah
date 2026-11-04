@@ -63,7 +63,7 @@ export const Tanda: React.FC = () => {
           Bahan<Mark p={m(4, 'rincian')} ch=":" col={C.mint} /> kubis ungu, air, dan HCl.
           <span style={{marginLeft: 40, color: C.muted, position: 'relative'}}>
             Bahannya adalah<span style={{color: C.red, fontWeight: 800}}>:</span> kubis ungu …
-            <span style={{position: 'absolute', left: -4, top: '55%', height: 4, width: `calc(${(colonBad * 100).toFixed(1)}% + 8px)`, background: C.red, borderRadius: 2}} />
+            <span style={{position: 'absolute', left: -4, top: '55%', height: 4, width: `calc(${(colonBad * 100).toFixed(1)}% + ${(8 * (colonBad)).toFixed(2)}px)`, background: C.red, borderRadius: 2}} />
           </span>
         </span>
       </Row>
